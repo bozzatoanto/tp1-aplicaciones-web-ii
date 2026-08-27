@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cucha plastica para perros",
+    "descripcion": "Cucha resistente para uso interior y exterior",
+    "precio": 58990,
+    "stock": 12,
+    "imagen": "cucha-perros.jpg",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Puerta para mascotas",
+    "descripcion": "Puerta con solapa para perros y gatos",
+    "precio": 25990,
+    "stock": 20,
+    "imagen": "puerta-mascotas.jpg",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Litera automatica",
+    "descripcion": "Litera autolimpiante para gatos con control automatico",
+    "precio": 449900,
+    "stock": 4,
+    "imagen": "litera-automatica.jpg",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "Arena de silice 3.8 L",
+    "descripcion": "Arena sanitaria absorbente para gatos",
+    "precio": 15990,
+    "stock": 35,
+    "imagen": "arena-silice.jpg",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Juguete interactivo para mascotas",
+    "descripcion": "Juguete para estimular la actividad y entretenimiento",
+    "precio": 21990,
+    "stock": 18,
+    "imagen": "juguete-interactivo.jpg",
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Bebedero automatico",
+    "descripcion": "Fuente de agua electrica para perros y gatos",
+    "precio": 34990,
+    "stock": 0,
+    "imagen": "bebedero-automatico.jpg",
+    "disponible": false
+  }
+]
