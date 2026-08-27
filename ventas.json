@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1001,
+    "id_usuario": 1,
+    "fecha": "2026-08-10",
+    "total": 57970,
+    "direccion": "Av. Colon 1250, Cordoba",
+    "pagada": true,
+    "enviada": true,
+    "productos": [
+      {
+        "id_producto": 2,
+        "cantidad": 1
+      },
+      {
+        "id_producto": 4,
+        "cantidad": 2
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "id_usuario": 2,
+    "fecha": "2026-08-14",
+    "total": 56980,
+    "direccion": "San Martin 840, Villa Allende",
+    "pagada": true,
+    "enviada": false,
+    "productos": [
+      {
+        "id_producto": 6,
+        "cantidad": 1
+      },
+      {
+        "id_producto": 5,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "id_usuario": 3,
+    "fecha": "2026-08-18",
+    "total": 497870,
+    "direccion": "Rondeau 520, Cordoba",
+    "pagada": true,
+    "enviada": true,
+    "productos": [
+      {
+        "id_producto": 3,
+        "cantidad": 1
+      },
+      {
+        "id_producto": 4,
+        "cantidad": 3
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "id_usuario": 1,
+    "fecha": "2026-08-22",
+    "total": 58990,
+    "direccion": "Av. Colon 1250, Cordoba",
+    "pagada": false,
+    "enviada": false,
+    "productos": [
+      {
+        "id_producto": 1,
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "id_usuario": 4,
+    "fecha": "2026-08-25",
+    "total": 73970,
+    "direccion": "Belgrano 410, Alta Gracia",
+    "pagada": true,
+    "enviada": false,
+    "productos": [
+      {
+        "id_producto": 2,
+        "cantidad": 2
+      },
+      {
+        "id_producto": 5,
+        "cantidad": 1
+      }
+    ]
+  }
+]
