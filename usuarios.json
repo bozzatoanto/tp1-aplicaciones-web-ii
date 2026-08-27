@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lucia",
+    "apellido": "Fernandez",
+    "email": "lucia.fernandez@email.com",
+    "contrasena": "lucia123",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Martin",
+    "apellido": "Gomez",
+    "email": "martin.gomez@email.com",
+    "contrasena": "martin456",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Sofia",
+    "apellido": "Romero",
+    "email": "sofia.romero@email.com",
+    "contrasena": "sofia789",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Tomas",
+    "apellido": "Lopez",
+    "email": "tomas.lopez@email.com",
+    "contrasena": "tomas321",
+    "activo": false
+  },
+  {
+    "id": 5,
+    "nombre": "Camila",
+    "apellido": "Diaz",
+    "email": "camila.diaz@email.com",
+    "contrasena": "camila654",
+    "activo": true
+  }
+]
