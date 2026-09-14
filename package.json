@@ -1,0 +1,13 @@
+{
+  "name": "tp1-aplicaciones-web-ii",
+  "version": "2.0.0",
+  "description": "API REST para ecommerce de productos para mascotas",
+  "type": "module",
+  "main": "servidor.mjs",
+  "scripts": {
+    "start": "node servidor.mjs"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
